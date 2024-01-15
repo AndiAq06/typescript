@@ -1,0 +1,4 @@
+npm install -g typescript
+tsc index.ts
+tsc -- init untuk mendowload tsconfig.json
+tsc --watch untuk melihat perubahan ketika d save
